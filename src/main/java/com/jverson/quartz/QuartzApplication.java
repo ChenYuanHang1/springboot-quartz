@@ -6,7 +6,7 @@ import org.springframework.boot.SpringApplication;
 
 @SpringBootApplication
 public class QuartzApplication {
-
+	//bugfix
     public static void main(String[] args) {
         SpringApplication.run(QuartzApplication.class, args);
     }
